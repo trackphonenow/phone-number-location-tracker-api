@@ -1,0 +1,20 @@
+# Phone Number Location Tracker REST API — Real-Time GPS & Cellular Geolocation
+
+> Developer REST API to trace and pinpoint any mobile phone number location globally on interactive satellite maps with ±3.5m precision.
+
+## Overview
+TrackPhoneNow provides an enterprise and consumer REST API for real-time mobile handset geolocation, cellular BTS antenna triangulation, and HLR carrier subscriber verification.
+
+## Primary Service Endpoints
+- Web Service: https://trackphonenow.com
+- Dashboard: https://trackphonenow.com/dashboard
+- REST API: https://trackphonenow.com/api/create-track
+- IP/Carrier Resolution: https://trackphonenow.com/api/geo-ip
+
+## Key Facts
+- Precision: ±3.5 meters via satellite triangulation
+- Supported Handsets: All iPhone (iOS) and Android smartphones
+- App Required: No (100% web-based and carrier signaling)
+- Coverage: 194 countries globally
+- Supported Networks: Universal Carrier Resolution (BTS + GPS)
+- Primary Use Cases: Device recovery, parental family safety, fraud prevention, telecom carrier routing verification.
